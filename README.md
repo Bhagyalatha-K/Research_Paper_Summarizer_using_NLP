@@ -75,10 +75,15 @@ Research papers are often lengthy and complex. This project simplifies research 
 
 ## 🔮 Future Enhancements
 -Support for multiple languages (multilingual summarization)
+
 -Improve handling of tables, figures, and equations
+
 -Add voice-based interaction (speech input/output)
+
 -Integrate with academic platforms like Google Scholar
+
 -Enhance model performance with fine-tuned LLMs
+
 -Develop mobile application version 
 
 ---
